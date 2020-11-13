@@ -1,0 +1,10 @@
+{
+    "prefix" : "!",
+    "token" : "Your TOKEN here!",
+    "bot_age" : 21,
+    "words_array" : ["Hi", "Bye", "This is array"],
+    "bot_info" : {
+        "name" : "DCbot",
+        "version" : 1.2
+    }
+}
