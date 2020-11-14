@@ -1,4 +1,4 @@
-/* eslint-disable no-unused-vars */
+/* eslint-disable no-mixed-spaces-and-tabs */
 const Discord = require('discord.js');
 const fs = require('fs');
 
@@ -13,11 +13,9 @@ const {
 	prefix,
 } = require('./config.json');
 client.on('ready', () => {
+	client.user.setActivity(`${prefix}help\n| this bot is Made by 🅼🆈🆃🅷™#1537`, { type: 'WATCHING' });
 	console.log('bot has been deployed');
-
 });
-
-
 client.login(token);
 
 for(const file of commandFiles) {
@@ -41,3 +39,6 @@ client.on('message', message => {
 	}
 
 });
+// info
+// PLAYING, WATCHING, LISTENING, STREAMING
+// this bot was made by 🅼🆈🆃🅷™#1537!

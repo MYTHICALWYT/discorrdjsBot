@@ -1,10 +1,10 @@
 {
-    "prefix" : "!",
-    "token" : "Your TOKEN here!",
-    "bot_age" : 21,
+    "prefix" : "r$",
+    "token" : "Nzc2NDM3NDIwMDk4NTg0NTg4.X603sg.-yZfL2g4uiUPhxr-JyPukjV3o0Q",
+    "bot_age" : 1,
     "words_array" : ["Hi", "Bye", "This is array"],
     "bot_info" : {
-        "name" : "DCbot",
-        "version" : 1.2
+        "name" : "ReactionRoles!",
+        "version" : 1.0
     }
 }
